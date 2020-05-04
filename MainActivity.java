@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.Random;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String TAG = MainActivity.class.getSimpleName();
+    private static final String TAG = "Whack-A-Mole";
     /* Hint
         - The function setNewMole() uses the Random class to generate a random value ranged from 0 to 2.
         - Feel free to modify the function to suit your program.
